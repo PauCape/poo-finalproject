@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.uoc.uocoban.controller.GameTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2023-05-10T07:28:33" hostname="DESKTOP-R3THNTI" time="0.104">
+  <properties/>
+  <testcase name="Sanity Game - Class definition" classname="edu.uoc.uocoban.controller.GameTest" time="0.087"/>
+  <testcase name="Sanity Game - Methods definition" classname="edu.uoc.uocoban.controller.GameTest" time="0.009"/>
+  <testcase name="Sanity Game - Fields definition" classname="edu.uoc.uocoban.controller.GameTest" time="0.004"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

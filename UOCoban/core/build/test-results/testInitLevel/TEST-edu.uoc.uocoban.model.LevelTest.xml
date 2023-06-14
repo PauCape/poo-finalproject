@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.uoc.uocoban.model.LevelTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2023-05-10T07:28:41" hostname="DESKTOP-R3THNTI" time="0.024">
+  <properties/>
+  <testcase name="testMinimumMovementsError()" classname="edu.uoc.uocoban.model.LevelTest" time="0.014"/>
+  <testcase name="testMinimumHeightError()" classname="edu.uoc.uocoban.model.LevelTest" time="0.004"/>
+  <testcase name="testMinimumWidthError()" classname="edu.uoc.uocoban.model.LevelTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
